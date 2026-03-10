@@ -4,8 +4,8 @@
 - **Company Name:** Bobureau
 - **Directory:** bobureau
 - **Address/Contact:** 
-  - avenue 19 rue 5 face sitarail, Treichville, Abidjan, C�te d'Ivoire, 05 BP 719 Abidjan 05 Email:bobureau@yahoo.fr
-  - Coordonn�es
+  - avenue 19 rue 5 face sitarail, Treichville, Abidjan, Céte d'Ivoire, 05 BP 719 Abidjan 05 Email:bobureau@yahoo.fr
+  - Coordonnées
   - 
   - +225 47 54 28 93
   - 
